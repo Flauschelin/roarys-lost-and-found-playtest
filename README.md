@@ -20,6 +20,9 @@ Das Tempo steigt über die drei Level an: Level 1 startet bei 11,2 und erreicht
 14,2, Level 2 läuft mit 12 bis 15, Level 3 mit 12,8 bis 16. Nach Treffern und
 am Abzweig bleibt Roary ebenfalls schneller. Die Hindernisse und Abzweigungen
 bleiben an festen Positionen.
+An jedem Abzweig steht nun eine ausgestaltete Schalterhalle mit Uhr,
+Anzeigetafel und beleuchteten Fenstern. Die drei Level haben unterschiedliche
+Hallenfarben; die Wegpfeile sind kleiner.
 Die Streckenlogik durchsucht pro Simulationsschritt nur noch die gerade
 relevanten Gegenstände. Die 3D-Szene projiziert zudem nur sichtbare
 Streckenobjekte. Beides reduziert CPU-Arbeit; eine iPhone-Bildrate ist damit
