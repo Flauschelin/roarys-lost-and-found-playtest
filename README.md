@@ -24,6 +24,11 @@ rote Herzen pro Level und jede Raucherpause geben ein zusätzliches Leben
 (höchstens fünf). Die Ziellinie beendet den Lauf aus jeder Spur; Fundstücke
 bringen Punkte, sind aber keine Pflicht für den Levelabschluss.
 
+Türkise Pfeile zeigen springbares Gepäck an. Springen reagiert jetzt auch bei
+spätem Absprung und während eines begonnenen Spurwechsels. Hohe Wagen und
+Reisende werden weiter umgangen. Unter den Bahnhofsmodellen liegt ein
+gepflasterter Ersatzboden, sodass fehlende Modellstücke keine Lücken öffnen.
+
 ## Steuerung im Bahnhofslauf
 
 - Gerät nach links/rechts neigen: Spur wechseln.
