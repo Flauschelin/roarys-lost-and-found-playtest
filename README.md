@@ -1,25 +1,29 @@
-# Roary’s Lost & Found — Playtest
+# Roary’s Lost & Found — Bahnhof Run
+
+![Roary’s Lost & Found](roary-logo.svg)
 
 **[Jetzt im Browser spielen](https://flauschelin.github.io/roarys-lost-and-found-playtest/)**
 
-Spielbare Testversion mit zwölf Fällen, drei Schichten und drei 3D-Bahnhofsläufen.
-Auf dem iPhone den Link in Safari öffnen. Für einen schnellen Actiontest im
-Hauptmenü einen der drei Bahnhofsläufe auswählen.
+Reines 3D-Actionspiel mit drei Bahnhofsläufen. Auf dem iPhone den Link in Safari
+öffnen und SPIELEN antippen oder direkt Level 1, 2 oder 3 auswählen.
+Kein Fundbüro, keine Point-and-Click-Rätsel, keine Textleisten oder Sprachuntertitel.
+Die Sprachausgabe bleibt hörbar. Punkte und Leben liegen transparent über der Szene.
 
 ## Steuerung im Bahnhofslauf
 
 - Nach links/rechts wischen: Spur wechseln.
 - Nach oben wischen: springen.
 - Nach unten wischen: ducken. Auf dem Skateboard ist Ducken gesperrt.
-- Am Computer: Pfeiltasten oder WASD, Leertaste zum Springen.
+- Am Computer: Pfeiltasten oder WASD, Leertaste zum Springen, Escape für Pause.
+- Das kleine Pausensymbol öffnet Fortsetzen, Neustart und die Toneinstellungen.
 
-Der Fortschritt wird lokal im jeweiligen Browser gespeichert. Beim Wechsel
+Rekorde und Toneinstellungen werden lokal im jeweiligen Browser gespeichert. Beim Wechsel
 zwischen Browsern oder Geräten wird der Spielstand nicht übertragen.
 
 ## Feedback
 
 Feedback gern als [GitHub-Issue](https://github.com/Flauschelin/roarys-lost-and-found-playtest/issues/new).
-Hilfreich sind iPhone-Modell, iOS-Version, betroffener Lauf oder Fall und eine
+Hilfreich sind iPhone-Modell, iOS-Version, betroffenes Level und eine
 kurze Beschreibung; bei Darstellungsfehlern gern ein Screenshot.
 
 Dies ist eine Testversion. Spielspaß, Schwierigkeit und Verhalten auf echten
