@@ -23,6 +23,7 @@ bleiben an festen Positionen.
 An jedem Abzweig steht nun eine ausgestaltete Schalterhalle mit Uhr,
 Anzeigetafel und beleuchteten Fenstern. Die drei Level haben unterschiedliche
 Hallenfarben; die Wegpfeile sind kleiner.
+Die wiederholten Hallendetails sind für weniger Zeichenaufrufe gebündelt.
 Die Streckenlogik durchsucht pro Simulationsschritt nur noch die gerade
 relevanten Gegenstände. Die 3D-Szene projiziert zudem nur sichtbare
 Streckenobjekte. Beides reduziert CPU-Arbeit; eine iPhone-Bildrate ist damit
