@@ -15,6 +15,9 @@ Schienenrhythmus, Percussion, Bass, Streicher und Bläsermotive. Die Musik wird
 während Roarys Sprache abgesenkt. Die Opus-Downloads wurden für iPhone-Safari
 in AAC umgewandelt.
 
+Level 1 startet jetzt deutlich schneller und beschleunigt früher bis zum
+Höchsttempo. Die Hindernisse und Abzweigungen bleiben an festen Positionen.
+
 ## Steuerung im Bahnhofslauf
 
 - Gerät nach links/rechts neigen: Spur wechseln.
