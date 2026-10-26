@@ -28,6 +28,8 @@ Türkise Pfeile zeigen springbares Gepäck an. Springen reagiert jetzt auch bei
 spätem Absprung und während eines begonnenen Spurwechsels. Hohe Wagen und
 Reisende werden weiter umgangen. Unter den Bahnhofsmodellen liegt ein
 gepflasterter Ersatzboden, sodass fehlende Modellstücke keine Lücken öffnen.
+Die Bahnhofsdächer lassen im Hochformat den Blick auf kommende Hindernisse
+frei; Träger und Lampen bleiben erhalten.
 
 ## Steuerung im Bahnhofslauf
 
