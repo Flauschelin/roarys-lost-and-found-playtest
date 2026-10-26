@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Roary’s Lost &amp; Found">
+  <rect width="64" height="64" rx="14" fill="#123f43"/>
+  <circle cx="32" cy="32" r="22" fill="#c9a257"/>
+  <path d="M23 46V18h11c8 0 13 4 13 11 0 4-2 8-7 10l8 7H37l-7-7v7zm8-15h3c3 0 5-1 5-3s-2-3-5-3h-3z" fill="#173537"/>
+  <path d="M16 13l5-5 4 7zm32 0-5-5-4 7z" fill="#c9a257"/>
+</svg>

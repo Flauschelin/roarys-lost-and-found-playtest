@@ -1,0 +1,59 @@
+{
+  "provider": "Suno Speech",
+  "created": "2026-10-25",
+  "title": "Wundheilsalbe",
+  "sourceFile": "assets/audio-source/suno-care-original.mp3",
+  "sourceSha256": "05a7ddf9e7b8358c42095a84bb1a73d5cd6fc71b1f20076eb5fcbc2de0c83fe8",
+  "license": "LicenseRef-Suno-Account-Terms",
+  "licenseNotice": "Generated in the user-controlled Pro account; existing download allowance used. Account terms apply. No new subscription or purchase.",
+  "generation": {
+    "script": "Autsch. Meine Beinenden sind wund. Ich brauche kurz eine Pause.\n\nAh, Wundheilsalbe. Das tut gut. Jetzt geht es wieder.",
+    "tone": "German male character voice, deep bass register, low warm raspy timbre, tired and resigned, dry understated sarcasm, natural conversational pacing, isolated spoken dialogue. No singing, no music, no sound effects. Speak each supplied sentence once, with two seconds of silence between the two paragraphs. Clean endings. First paragraph: mild pain, tired. Second paragraph: relieved, warm.",
+    "gender": "Male",
+    "backgroundMusic": "Off",
+    "variety": "Normal",
+    "sourceURL": null
+  },
+  "verification": "Source SHA-256, offline Whisper word timings, ffprobe durations and complete ffmpeg decode. Removed long silent gaps, unclear pronunciation of Wundheilsalbe, and unused tail. Provider pronounces Beine in the first line; subtitle follows transcript.",
+  "hearingReview": "Human listening and voice consistency approval pending.",
+  "files": [
+    {
+      "id": "injury",
+      "text": "Autsch. Meine Beine sind wund. Ich brauche kurz eine Pause.",
+      "ranges": [
+        [
+          0,
+          5.15
+        ]
+      ],
+      "file": "injury.mp3",
+      "bytes": 63127,
+      "sha256": "d226464751e7963ba598a113689088407ee01d03bc2e20f4bc716d7bdc107b92",
+      "durationSeconds": 5.15,
+      "sourceSha256": "05a7ddf9e7b8358c42095a84bb1a73d5cd6fc71b1f20076eb5fcbc2de0c83fe8"
+    },
+    {
+      "id": "ointment",
+      "text": "Ah. Das tut gut. Jetzt geht es wieder.",
+      "ranges": [
+        [
+          6.25,
+          7.25
+        ],
+        [
+          10.2,
+          11.8
+        ],
+        [
+          13.4,
+          15.1
+        ]
+      ],
+      "file": "ointment.mp3",
+      "bytes": 53047,
+      "sha256": "e21f65054432e9980994d75565702e3732e1d9bccda33b4364a7b1211fa2f01b",
+      "durationSeconds": 4.3,
+      "sourceSha256": "05a7ddf9e7b8358c42095a84bb1a73d5cd6fc71b1f20076eb5fcbc2de0c83fe8"
+    }
+  ]
+}

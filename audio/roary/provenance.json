@@ -1,0 +1,118 @@
+{
+  "provider": "Suno Speech",
+  "method": "Byte-identical reuse of the user's existing Roary3D Suno recordings. No new generation or spend.",
+  "license": "LicenseRef-Suno-Account-Terms",
+  "licenseNotice": "User-provided Suno samples; account terms apply, NOT CC0. Distribution rights not independently cleared.",
+  "verification": "Source SHA-256 matched existing project provenance; ffprobe duration and full ffmpeg MP3 decode passed.",
+  "hearingReview": "Human listening and voice consistency approval remain pending. Subtitles follow existing source transcripts.",
+  "files": [
+    {
+      "id": "fehler_04",
+      "file": "fehler_04.mp3",
+      "bytes": 65708,
+      "sha256": "cc4293c0c7e66975145f8fbefe52ca3fc076b6d3281694439d7811b3147240e4",
+      "durationSeconds": 4.05,
+      "text": "Bitte sag mir, dass das niemand gesehen hat.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/fehler_04.mp3",
+      "sunoURL": null,
+      "sourceSha256": "3958cdc20b33fb689834e001ecc896848307d239dbc2785ba460a9906bc4a8ef"
+    },
+    {
+      "id": "ansturm_01",
+      "file": "ansturm_01.mp3",
+      "bytes": 66476,
+      "sha256": "e96e51b562cdbf6d0d7c45b5d9c18211c968b762d989e8a659a837cf476e6ce9",
+      "durationSeconds": 4.1,
+      "text": "Oh gut. Eine Reisegruppe. Mein persönlicher Endgegner.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/ansturm_01.mp3",
+      "sunoURL": null,
+      "sourceSha256": "fc7c9535634717b7462e0ed1e29fdab169ae4a9d6feb0640bf3f07053b878a65"
+    },
+    {
+      "id": "ansturm_03",
+      "file": "ansturm_03.mp3",
+      "bytes": 69932,
+      "sha256": "cc9f69f15917be7ce142070087efe2ebbb3736af08a9490f2f52cd51dcbfd7aa",
+      "durationSeconds": 4.3,
+      "text": "Sie kommen alle gleichzeitig. Haben die sich gegen mich verabredet?",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/ansturm_03.mp3",
+      "sunoURL": null,
+      "sourceSha256": "fc7c9535634717b7462e0ed1e29fdab169ae4a9d6feb0640bf3f07053b878a65"
+    },
+    {
+      "id": "zufall_04",
+      "file": "zufall_04.mp3",
+      "bytes": 75308,
+      "sha256": "cf4a4bde2c915e97f1b4a5fa4e2b02bc5b9950a2449f68f73e3daaea2902372a",
+      "durationSeconds": 4.65,
+      "text": "Früher habe ich von Freiheit geträumt. Heute von einer Sitzgelegenheit.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/zufall_04.mp3",
+      "sunoURL": null,
+      "sourceSha256": "fc7c9535634717b7462e0ed1e29fdab169ae4a9d6feb0640bf3f07053b878a65"
+    },
+    {
+      "id": "zufall_05",
+      "file": "zufall_05.mp3",
+      "bytes": 65324,
+      "sha256": "d0f337d0719194656af6520055ae27d76327467d153e477ab88b72ae20fb6561",
+      "durationSeconds": 4.03,
+      "text": "Falls du einen Ausgang siehst: Merk ihn dir. Für später.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/zufall_05.mp3",
+      "sunoURL": null,
+      "sourceSha256": "fc7c9535634717b7462e0ed1e29fdab169ae4a9d6feb0640bf3f07053b878a65"
+    },
+    {
+      "id": "erfolg_02",
+      "file": "erfolg_02.mp3",
+      "bytes": 73388,
+      "sha256": "bad6b5bb2b8d9721f59147730905ca941444d087efd7cd2e3d9b92e2c27d1410",
+      "durationSeconds": 4.53,
+      "text": "Mit dir fühlt sich dieser Job fast erträglich an.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/erfolg_02.mp3",
+      "sunoURL": null,
+      "sourceSha256": "fc7c9535634717b7462e0ed1e29fdab169ae4a9d6feb0640bf3f07053b878a65"
+    },
+    {
+      "id": "feierabend_01",
+      "file": "feierabend_01.mp3",
+      "bytes": 108332,
+      "sha256": "42543682b1d14b311711a64be6ea8b067539f2aabbc85d369c0cda4354b607b7",
+      "durationSeconds": 6.7,
+      "text": "Wir haben es geschafft. Bitte sag meinem Chef nicht, dass ich noch Energie übrig habe.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/feierabend_01.mp3",
+      "sunoURL": null,
+      "sourceSha256": "fc7c9535634717b7462e0ed1e29fdab169ae4a9d6feb0640bf3f07053b878a65"
+    },
+    {
+      "id": "gameover_01",
+      "file": "gameover_01.mp3",
+      "bytes": 90284,
+      "sha256": "e1f8f3bd05a2467a9b8903a6fbbca2f819b070b369f63c584f6837738f32d32f",
+      "durationSeconds": 5.575646,
+      "text": "Heute hat es nicht gereicht. Lass mich kurz durchatmen. Dann versuchen wir es noch mal. Zusammen.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/voices/gameover_01.mp3",
+      "sunoURL": null,
+      "sourceSha256": "fc7c9535634717b7462e0ed1e29fdab169ae4a9d6feb0640bf3f07053b878a65"
+    },
+    {
+      "id": "proud",
+      "file": "proud.mp3",
+      "bytes": 92972,
+      "sha256": "bc1703be842d1eca71327d47a49087a5ab8392a944a0b774e564cb8948713fdc",
+      "durationSeconds": 5.74,
+      "text": "Bitte erzähl niemandem, dass mir das gerade Spaß gemacht hat.",
+      "sourceProject": "Roary3D",
+      "sourceFile": "public/audio/personality/proud.mp3",
+      "sunoURL": "https://suno.com/song/8a0a6efa-fb5f-40d0-bc50-7ece952e2a2f",
+      "sourceSha256": "11db63d09422d965165ca6b3e32d5cbaac360a72e0d9585a8b3982ff21727966"
+    }
+  ]
+}
