@@ -20,6 +20,8 @@ Das Tempo steigt über die drei Level an: Level 1 startet bei 11,2 und erreicht
 14,2, Level 2 läuft mit 12 bis 15, Level 3 mit 12,8 bis 16. Nach Treffern und
 am Abzweig bleibt Roary ebenfalls schneller. Die Hindernisse und Abzweigungen
 bleiben an festen Positionen.
+Links oder rechts abbiegen ist jetzt schon 36 Meter vor der Kurve möglich.
+Nach einem verpassten Abzweig funktioniert der nächste Wisch sofort.
 An jedem Abzweig steht nun eine ausgestaltete Schalterhalle mit Uhr,
 Anzeigetafel und beleuchteten Fenstern. Die drei Level haben unterschiedliche
 Hallenfarben; die Wegpfeile sind kleiner.
