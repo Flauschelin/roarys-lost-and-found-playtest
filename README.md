@@ -29,10 +29,10 @@ rote Herzen pro Level und jede Raucherpause geben ein zusätzliches Leben
 (höchstens fünf). Die Ziellinie beendet den Lauf aus jeder Spur; Fundstücke
 bringen Punkte, sind aber keine Pflicht für den Levelabschluss.
 
-Türkise Pfeile zeigen springbares Gepäck und niedrige Wagen an. Springen
+Dezente, transparente türkise Pfeile zeigen springbares Gepäck an. Springen
 reagiert auch beim Landen auf dem Hindernis und während eines begonnenen
-Spurwechsels. Wagen haben ein breites Sprungfenster; rote Seitenpfeile zeigen,
-dass Reisende umgangen werden müssen. Ihre
+Spurwechsels. Niedrige Wagen haben ein breites Sprungfenster, aber keine
+Bodenpfeile. Reisende bleiben ohne Pfeile Ausweichhindernisse. Ihre
 Laufwege lassen an Gepäcksprüngen Platz für Absprung und Landung.
 Bei einem Sprung während eines Spurwechsels blendet Roary die seitliche Pose
 aus und setzt den Seitenschritt nach der Landung fort.
