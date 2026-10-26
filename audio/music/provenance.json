@@ -1,56 +1,63 @@
 {
-  "provider": "Original local composition and mathematical instrument synthesis",
-  "license": "LicenseRef-Project-Original",
-  "licenseNotice": "Created specifically for this project. Original score and synthesis code; no third-party audio samples, recordings or copied melodies. No Suno generation or spend.",
+  "provider": "Suno v6 instrumental generation",
+  "license": "LicenseRef-Suno-Pro-Permitted-Download",
+  "licenseNotice": "Generated on 2026-10-26 with the user's existing Suno Pro account and downloaded twice through Suno's permitted UI. Suno states that permitted Pro downloads may be used in video games. These audio files are not CC0. The downloaded originals are retained privately with SHA-256 receipts.",
   "generation": {
-    "tool": "tools/compose-station-music.py",
-    "sourceCodeSha256": "6512f84741888dfdd1e8fc724aa0dae38330eedf56d77ee78694bbfe39f1ba59",
-    "arrangement": "32 bars, steady station action groove: railway clacks, breakbeat drums, bass, spiccato strings, marimba motif, short brass answers. Stereo cyclic hall reflections. No vocals."
+    "model": "Suno v6",
+    "accountPlanAtDownload": "Pro (observed in Suno download dialog)",
+    "prompt": "Instrumental soundtrack for a fast whimsical railway-station endless runner, 146 BPM, steady driving tempo, D minor, playful adventurous chase energy. Locomotive wheel-clack groove woven into tight breakbeat drums, wooden percussion and subtle steam-hiss shakers. Staccato strings and pizzicato ostinato, marimba hook, short punchy brass answers, warm driving electric bass. Catchy four-note railway-signal motif, nimble caper action and constant forward motion. Immediate groove from the first second, repeating 8-bar phrases, compact arrangement with clear midrange space for spoken character lines. Train chase in a busy station, energetic and fun, polished game soundtrack. No vocals, no lyrics, no choir, no spoken announcements, no ballad, no blues shuffle, no long intro, no slow breakdown, no tempo changes. Loop-friendly groove, no dramatic song ending.",
+    "sourceTitle": "Gleiswechsel – Roary Bahnhof Run",
+    "sourceDurationsSeconds": [
+      112.04,
+      127.96
+    ],
+    "downloadedVia": "Suno Safari interface; two Pro download credits",
+    "rightsReference": "https://help.suno.com/en/articles/9601665"
   },
-  "conversion": "Musical bar-boundary excerpt; AAC-LC 80k stereo 44.1kHz; -18 LUFS target, -6dB pre-encode true peak target (AAC headroom); 8ms edge ramps.",
+  "conversion": "Action excerpt at prompt nominal 146 BPM; AAC-LC 80k stereo 44.1kHz for Safari; -18.5 LUFS encode target and approximately -18 LUFS decoded; -6dB pre-encode true peak target (AAC headroom); 8ms edge ramps.",
   "verification": "Source/output SHA-256, AAC duration and channel checks, complete ffmpeg decode. Human listening and loop approval pending.",
   "tracks": [
     {
       "id": "gleiswechsel",
       "title": "Gleiswechsel",
-      "sourceSha256": "65a6cbe83b47d0b45132c27e8e96c56a6156f85b1d215f72e44e836b7cacb36d",
+      "sourceSha256": "b2d641c7495d4d5572ec7612ab25606efd4870be2606ed5531fb0646ddf8fd71",
       "bpm": 146,
       "bars": 32,
-      "startSeconds": 0,
-      "seed": 14601,
+      "startSeconds": 12,
+      "sourceVariant": "A, 1:52",
       "sourceURL": null,
       "file": "gleiswechsel.m4a",
-      "bytes": 546956,
-      "sha256": "d23324f17e62dd588631d0cb04d9f16cc7c4cd10d064e1b91c8bc56223ab125b",
+      "bytes": 538509,
+      "sha256": "d3cad9132f994d74cf139d2767a88cfc49232d90e4d861aa668ec0fd9d5a1a1e",
       "durationSeconds": 52.602744
     },
     {
       "id": "hallenjagd",
       "title": "Hallenjagd",
-      "sourceSha256": "4ffb67ddab1568b75311df422f6e809649839992137ae1ac825ecd2e35486c3d",
-      "bpm": 148,
+      "sourceSha256": "ba69447bd3b9a1bc3c10043512dd8fee6c3051fffb3530d9deec357c3546d1fd",
+      "bpm": 146,
       "bars": 32,
-      "startSeconds": 0,
-      "seed": 14802,
+      "startSeconds": 8,
+      "sourceVariant": "B, 2:08, first action section",
       "sourceURL": null,
       "file": "hallenjagd.m4a",
-      "bytes": 540140,
-      "sha256": "170e3d4ac9a202eed5b9664a5031d358b6e30bde311b695d40e222d0f16fd5f7",
-      "durationSeconds": 51.891882
+      "bytes": 539344,
+      "sha256": "fa5540711301abb90ef3369866fe89fd22cf2ee095359e3dcbb64794e415622d",
+      "durationSeconds": 52.602744
     },
     {
       "id": "letzter-zug",
       "title": "Letzter Zug",
-      "sourceSha256": "5e72bc5aaf0fffe876910d24d873f7277843f861bd49b4a65be812dc63031337",
-      "bpm": 152,
+      "sourceSha256": "ba69447bd3b9a1bc3c10043512dd8fee6c3051fffb3530d9deec357c3546d1fd",
+      "bpm": 146,
       "bars": 32,
-      "startSeconds": 0,
-      "seed": 15203,
+      "startSeconds": 66,
+      "sourceVariant": "B, 2:08, later action section",
       "sourceURL": null,
       "file": "letzter-zug.m4a",
-      "bytes": 525850,
-      "sha256": "48636b5da9d0fafe865cde9ee66ae54c8063987cbee002649a10365255ad8a10",
-      "durationSeconds": 50.526304
+      "bytes": 540422,
+      "sha256": "3d312fed18cb074fb0d323315ea829d241f252e0447bdcaf048a5aab797e965a",
+      "durationSeconds": 52.602744
     }
   ]
 }
