@@ -31,6 +31,8 @@ Türkise Pfeile zeigen springbares Gepäck an. Springen reagiert auch beim
 Landen auf dem Hindernis und während eines begonnenen Spurwechsels. Wagen
 können am höchsten Punkt übersprungen werden; Reisende werden umgangen. Ihre
 Laufwege lassen an Gepäcksprüngen Platz für Absprung und Landung.
+Bei einem Sprung während eines Spurwechsels blendet Roary die seitliche Pose
+aus und setzt den Seitenschritt nach der Landung fort.
 Unter den Bahnhofsmodellen liegt ein
 gepflasterter Ersatzboden, sodass fehlende Modellstücke keine Lücken öffnen.
 Gelbe Abwärtspfeile markieren Hindernisse, unter denen Roary sich ducken muss.
