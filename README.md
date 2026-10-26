@@ -11,11 +11,15 @@ Die Sprachausgabe bleibt hörbar. Punkte und Leben liegen transparent über der 
 
 ## Steuerung im Bahnhofslauf
 
-- Nach links/rechts wischen: Spur wechseln.
+- Gerät nach links/rechts neigen: Spur wechseln.
+- Nach links/rechts wischen: an den T-Abzweigungen um 90° abbiegen.
 - Nach oben wischen: springen.
 - Nach unten wischen: ducken. Auf dem Skateboard ist Ducken gesperrt.
-- Am Computer: Pfeiltasten oder WASD, Leertaste zum Springen, Escape für Pause.
-- Das kleine Pausensymbol öffnet Fortsetzen, Neustart und die Toneinstellungen.
+- Am Computer: A/D oder Pfeiltasten für Spuren, Q/E zum Abbiegen, Leertaste zum Springen, Escape für Pause.
+- Beim ersten mobilen Start Sensorfreigabe erlauben und das Gerät kurz ruhig halten.
+  Ohne Sensordaten lässt sich die Spur durch Tippen ins linke/mittlere/rechte Drittel wählen.
+  Steuerung und Kalibrierung sind in der Pause einstellbar.
+- Das kleine Pausensymbol öffnet Fortsetzen, Neustart, Steuerung und die Toneinstellungen.
 
 Rekorde und Toneinstellungen werden lokal im jeweiligen Browser gespeichert. Beim Wechsel
 zwischen Browsern oder Geräten wird der Spielstand nicht übertragen.
