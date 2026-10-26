@@ -6,6 +6,7 @@
 
 Reines 3D-Actionspiel mit drei Bahnhofsläufen. Auf dem iPhone den Link in Safari
 öffnen und SPIELEN antippen oder direkt Level 1, 2 oder 3 auswählen.
+Jeder Rückweg hat eine eigene Hindernisfolge statt einer gespiegelten Wiederholung.
 Kein Fundbüro, keine Point-and-Click-Rätsel, keine Textleisten oder Sprachuntertitel.
 Die Sprachausgabe bleibt hörbar. Punkte und Leben liegen transparent über der Szene.
 
