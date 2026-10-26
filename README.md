@@ -38,6 +38,8 @@ Bei einem Sprung während eines Spurwechsels blendet Roary die seitliche Pose
 aus und setzt den Seitenschritt nach der Landung fort.
 Unter den Bahnhofsmodellen liegt ein gepflasterter Ersatzboden. Die
 Pflasterplatten bleiben auch in den Kurven sichtbar.
+Bleibt ein 3D-Download hängen, startet der Lauf nach begrenzter Wartezeit mit
+einem Ersatzmodell, statt dauerhaft auf dem Ladebildschirm zu bleiben.
 Gelbe Abwärtspfeile markieren Hindernisse, unter denen Roary sich ducken muss.
 Die Bahnhofsdächer lassen im Hochformat den Blick auf kommende Hindernisse
 frei; Träger und Lampen bleiben erhalten.
