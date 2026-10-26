@@ -27,14 +27,15 @@ rote Herzen pro Level und jede Raucherpause geben ein zusätzliches Leben
 (höchstens fünf). Die Ziellinie beendet den Lauf aus jeder Spur; Fundstücke
 bringen Punkte, sind aber keine Pflicht für den Levelabschluss.
 
-Türkise Pfeile zeigen springbares Gepäck an. Springen reagiert auch beim
-Landen auf dem Hindernis und während eines begonnenen Spurwechsels. Wagen
-können am höchsten Punkt übersprungen werden; Reisende werden umgangen. Ihre
+Türkise Pfeile zeigen springbares Gepäck und niedrige Wagen an. Springen
+reagiert auch beim Landen auf dem Hindernis und während eines begonnenen
+Spurwechsels. Wagen haben ein breites Sprungfenster; rote Seitenpfeile zeigen,
+dass Reisende umgangen werden müssen. Ihre
 Laufwege lassen an Gepäcksprüngen Platz für Absprung und Landung.
 Bei einem Sprung während eines Spurwechsels blendet Roary die seitliche Pose
 aus und setzt den Seitenschritt nach der Landung fort.
-Unter den Bahnhofsmodellen liegt ein
-gepflasterter Ersatzboden, sodass fehlende Modellstücke keine Lücken öffnen.
+Unter den Bahnhofsmodellen liegt ein gepflasterter Ersatzboden. Die
+Pflasterplatten bleiben auch in den Kurven sichtbar.
 Gelbe Abwärtspfeile markieren Hindernisse, unter denen Roary sich ducken muss.
 Die Bahnhofsdächer lassen im Hochformat den Blick auf kommende Hindernisse
 frei; Träger und Lampen bleiben erhalten.
