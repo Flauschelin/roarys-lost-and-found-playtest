@@ -1,0 +1,24 @@
+{
+  "provider": "Suno Speech",
+  "created": "2026-10-26",
+  "sourceFile": "assets/audio-source/suno-gameover-exact-original.mp3",
+  "sourceSha256": "260b2e1f809f9d6af28f0c881029fbc107a0b069434b278a50d34ef760b753dd",
+  "sourceId": "444c5a7d-11aa-4f21-a812-73270d41a8e7",
+  "license": "LicenseRef-Suno-Account-Terms",
+  "licenseNotice": "Generated in the user-controlled Pro account using an existing download allowance. No new subscription or purchase.",
+  "generation": {
+    "script": "Heute hat's leider nicht gereicht.",
+    "tone": "German male character voice, deep bass, low warm raspy timbre, tired and resigned, dry understated sarcasm. Natural conversational German speech. One short disappointed but gentle sentence, then a clean ending. No singing, no music, no sound effects, no extra words.",
+    "gender": "Male",
+    "backgroundMusic": "Off",
+    "variety": "Normal"
+  },
+  "file": "gameover-exact.mp3",
+  "text": "Heute hat's leider nicht gereicht.",
+  "sourceRangeSeconds": [3.1, 5.08],
+  "durationSeconds": 1.98,
+  "bytes": 25041,
+  "sha256": "4bdf31c91b1451b71ed867d520cba092e138585e2fe191e2d3e505d5d1f4a011",
+  "verification": "Offline Whisper transcribed the selected source range as 'Heute hat es leider nicht gereicht.' with high word confidence; ffprobe duration and full ffmpeg decode checked. The source repeats the sentence for two minutes, so only one complete rendition is used.",
+  "hearingReview": "Human listening and voice consistency approval pending."
+}
