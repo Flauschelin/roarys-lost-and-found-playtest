@@ -20,6 +20,8 @@ Das Tempo steigt über die drei Level an: Level 1 startet bei 11,2 und erreicht
 14,2, Level 2 läuft mit 12 bis 15, Level 3 mit 12,8 bis 16. Nach Treffern und
 am Abzweig bleibt Roary ebenfalls schneller. Die Hindernisse und Abzweigungen
 bleiben an festen Positionen.
+Die Streckenlogik durchsucht pro Simulationsschritt nur noch die gerade
+relevanten Gegenstände. Das reduziert CPU-Arbeit auf langen Läufen.
 Roary läuft im Bild etwas höher, damit seine Bodenspuren sichtbar sind. Zwei
 rote Herzen pro Level und jede Raucherpause geben ein zusätzliches Leben
 (höchstens fünf). Die Ziellinie beendet den Lauf aus jeder Spur; Fundstücke
