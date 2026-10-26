@@ -17,6 +17,10 @@ in AAC umgewandelt.
 
 Level 1 startet jetzt deutlich schneller und beschleunigt früher bis zum
 Höchsttempo. Die Hindernisse und Abzweigungen bleiben an festen Positionen.
+Roary läuft im Bild etwas höher, damit seine Bodenspuren sichtbar sind. Zwei
+rote Herzen pro Level und jede Raucherpause geben ein zusätzliches Leben
+(höchstens fünf). Die Ziellinie beendet den Lauf aus jeder Spur; Fundstücke
+bringen Punkte, sind aber keine Pflicht für den Levelabschluss.
 
 ## Steuerung im Bahnhofslauf
 
