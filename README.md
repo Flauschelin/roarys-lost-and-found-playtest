@@ -9,6 +9,11 @@ Reines 3D-Actionspiel mit drei Bahnhofsläufen. Auf dem iPhone den Link in Safar
 Kein Fundbüro, keine Point-and-Click-Rätsel, keine Textleisten oder Sprachuntertitel.
 Die Sprachausgabe bleibt hörbar. Punkte und Leben liegen transparent über der Szene.
 
+Die neue originale Bahnhof-Actionmusik „Gleiswechsel“, „Hallenjagd“ und
+„Letzter Zug“ verbindet Schienenrhythmus, Percussion, Bass, Streicher und
+Bläsermotive. Ohne Gesang; die Musik wird während Roarys Sprache abgesenkt.
+Diese Tracks wurden eigens lokal komponiert und synthetisiert.
+
 ## Steuerung im Bahnhofslauf
 
 - Gerät nach links/rechts neigen: Spur wechseln.
